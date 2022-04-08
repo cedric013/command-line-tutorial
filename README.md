@@ -1,4 +1,4 @@
-Command-line fu script
+# Command-line fu script
 ======================
 
 A brief introduction to OSX command-line wizardry with extensive examples. For purposes of this introduction **command line**, **shell**, **terminal** and **bash** are all the same thing. There are specific, technical meanings for each of these words, but right now you shouldn't care about that right now.
